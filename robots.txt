@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nataliebtoone.github.io/sitemap.xml
